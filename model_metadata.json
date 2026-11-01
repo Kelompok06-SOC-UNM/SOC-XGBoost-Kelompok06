@@ -1,0 +1,16 @@
+{
+    "kelompok": "Kelompok 06 - PT Teknologi Keamanan Siber",
+    "tanggal_pelatihan": "2026-10-24",
+    "arsitektur": "Scikit-Learn Pipeline (FunctionTransformer + StandardScaler + XGBClassifier)",
+    "best_params": {
+        "learning_rate": 0.05,
+        "max_depth": 4,
+        "n_estimators": 200,
+        "scale_pos_weight": 5.67
+    },
+    "metrics_test_set": {
+        "f1_macro": 0.684,
+        "accuracy": 0.7734,
+        "roc_auc": 0.751
+    }
+}
